@@ -6,3 +6,8 @@
 #echo what is your last name?
 #read lastname
 #echo Your name is $firstname $lastname
+
+#monitor 
+df -h
+top
+sleep 10s
