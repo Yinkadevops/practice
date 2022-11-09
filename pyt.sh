@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 
 #echo what is your first name?
@@ -9,5 +9,5 @@
 
 #monitor 
 df -h
-top
-sleep 10s
+$1
+$?
